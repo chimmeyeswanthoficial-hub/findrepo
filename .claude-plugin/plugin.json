@@ -1,0 +1,7 @@
+{
+  "name": "findrepo",
+  "version": "1.1.0",
+  "description": "Automatically finds and vets the best GitHub repositories and agent skills for the task at hand.",
+  "license": "MIT",
+  "keywords": ["github", "search", "skills", "discovery"]
+}

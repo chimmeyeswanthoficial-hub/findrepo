@@ -1,0 +1,12 @@
+{
+  "name": "findrepo",
+  "version": "1.1.0",
+  "description": "Find the best GitHub repositories and agent skills for any task. An agent skill + zero-dependency CLI.",
+  "type": "module",
+  "bin": { "findrepo": "skills/findrepo/scripts/findrepo.mjs" },
+  "files": ["skills", "hooks", ".claude-plugin", "README.md", "LICENSE"],
+  "scripts": { "test": "node --test test/" },
+  "engines": { "node": ">=18" },
+  "keywords": ["github", "search", "agent-skills", "claude-skills", "skills", "repository-discovery", "cli", "ai-agents"],
+  "license": "MIT"
+}

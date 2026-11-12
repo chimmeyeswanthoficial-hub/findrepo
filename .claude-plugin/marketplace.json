@@ -1,0 +1,11 @@
+{
+  "name": "findrepo",
+  "owner": { "name": "YOUR_USERNAME" },
+  "plugins": [
+    {
+      "name": "findrepo",
+      "source": "./",
+      "description": "Automatically finds and vets the best GitHub repositories and agent skills for the task at hand."
+    }
+  ]
+}
